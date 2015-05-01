@@ -2,7 +2,7 @@
 First C Programming assignment. Had to make a game like Pong except had to add more features
 
 ##Features Working:
-0. Basic Functions work
+0. Basic Functions - Working
 1. Left AI - Working
 2. Curved Paddle - Working
 3. Point Blocks - Working
